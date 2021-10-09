@@ -1,2 +1,2 @@
 # AuroraWebsiteRepo
-This is for tutoroial purpose only.
+This is for tutorial purpose only.
